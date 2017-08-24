@@ -1,0 +1,19 @@
+.help-text {
+  padding: 20px 0;
+  font-size: 16px;
+}
+
+table th {
+  cursor: pointer;
+}
+
+table th .glyphicon {
+  position: relative;
+  display: inline-block;
+  margin-right: 3px;
+  top: 3px;
+}
+
+.add-btn {
+  margin: 20px 0;
+}
